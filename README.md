@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table width="100%">
+<table width="80%" align="center">
   <tr>
     <td width="50%">
       <div align="center">
