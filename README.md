@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=city-cheng&layout=compact)]((https://github.com/city-cheng/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=city-cheng&layout=compact)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=city-cheng&theme=react)](https://github.com/city-cheng/)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/city-cheng/city-cheng/output/github-contribution-grid-snake-dark.svg">
