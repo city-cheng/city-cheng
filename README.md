@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=city-cheng&layout=compact)
-  </div>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=city-cheng&layout=compact" alt="Top Languages"/>
+</div>
 <div align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=city-cheng&theme=react)](https://github.com/city-cheng/)
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=city-cheng&theme=react" alt="activity graph" />
 </div>
 <div align="center">
 <picture>
