@@ -14,18 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <div width="100%" display="flex">
-    <div width="50%">
+<table width="100%">
+  <tr>
+    <td width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ChanMeng666&show_icons=true&theme=graywhite" alt="ChanMeng's GitHub Stats" height="170"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=city-cheng&show_icons=true&theme=graywhite" alt="ChanMeng's GitHub Stats" height="170"/>
       </div>
-    </div>
-    <div width="50%">
+    </td>
+    <td width="50%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanMeng666&layout=compact&theme=graywhite" alt="Top Languages" height="170"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=city-cheng&layout=compact&theme=graywhite" alt="Top Languages" height="170"/>
       </div>
-    </div>
-</div>
+    </td>
+  </tr>
+</table>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/city-cheng/city-cheng/output/github-contribution-grid-snake-dark.svg">
