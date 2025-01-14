@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=city-cheng&layout=compact" alt="Top Languages"/>
-</div>
-<div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=city-cheng&theme=react" alt="activity graph" />
+ <div width="100%">
+    <div width="50%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ChanMeng666&show_icons=true&theme=graywhite" alt="ChanMeng's GitHub Stats" height="170"/>
+      </div>
+    </div>
+    <div width="50%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanMeng666&layout=compact&theme=graywhite" alt="Top Languages" height="170"/>
+      </div>
+    </div>
 </div>
 <div align="center">
 <picture>
