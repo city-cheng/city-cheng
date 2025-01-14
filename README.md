@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=city-cheng&layout=compact)
+  </div>
+<div align="center">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=city-cheng&theme=react)](https://github.com/city-cheng/)
+</div>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/city-cheng/city-cheng/output/github-contribution-grid-snake-dark.svg">
